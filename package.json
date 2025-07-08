@@ -1,0 +1,24 @@
+{
+  "name": "firstexpressserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahmanbo/firstExpressServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahmanbo/firstExpressServer/issues"
+  },
+  "homepage": "https://github.com/nahmanbo/firstExpressServer#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
