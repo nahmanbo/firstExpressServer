@@ -17,5 +17,8 @@
     "url": "https://github.com/nahmanbo/firstExpressServer/issues"
   },
   "homepage": "https://github.com/nahmanbo/firstExpressServer#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
