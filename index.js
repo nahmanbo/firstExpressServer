@@ -64,8 +64,7 @@ server.post('/action', (req, res) => {
       res.status(500).send({ error: "Failed to fetch cat facts", details: err.message });
     });
   }
-  // אם אף תנאי לא התקיים – החזר 400
-  res.status(400).send({ error: "Bad request" });
+    res.status(400).send({ error: "Bad request" });
 });
 
 
